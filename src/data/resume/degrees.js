@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Georgia Institute of Technology',
+    degree: 'M.S. Computer Science',
+    link: 'https://www.gatech.edu/',
+    year: 2021,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Illinois Urbana-Champaign',
+    degree: 'M.S. Civil Engineering',
+    link: 'https://illinois.edu/',
+    year: 2015,
+  },
+  {
+    school: 'Xi\'an University of Architecture & Technology',
+    degree: 'B.S. Civil Engineering',
+    link: 'https://www.xauat.edu.cn/en/',
+    year: 2013,
   },
 ];
 

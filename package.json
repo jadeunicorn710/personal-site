@@ -38,6 +38,8 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
+    "@iconify/icons-cib": "^1.2.2",
+    "@iconify/react": "^3.2.1",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "eslint": "^7.19.0",

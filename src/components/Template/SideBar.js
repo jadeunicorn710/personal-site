@@ -19,14 +19,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Yunlin. I go by Jason.
+        I am a <a href="https://www.cc.gatech.edu/">Georgia Tech CS</a> graduate and also
+        a <a href="https://arthena.com">U of I CEE</a> graduate. I currently work
+        at <a href="https://uzuncase.com/">Uzun+Case</a> as a Project Engineer.
+        I am dedicated to delivering exciting and quality building designs of various
+        types to our clients,
+        and I also develop software to enhance efficiency and productivity.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +36,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Yunlin Qi <Link to="/">yunlinqi.net</Link>.</p>
     </section>
   </section>
 );
