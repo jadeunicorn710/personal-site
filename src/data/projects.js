@@ -1,47 +1,59 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Streaming Wars',
+    subtitle: 'Java Web App',
+    link: 'https://github.com/jadeunicorn710/Project_StreamingWars',
+    image: '/images/projects/StreamingWars.gif',
+    date: '2021-05-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Java web development of a streaming event platform that dynamically tracks '
+      + 'the status of various parties including studios, streaming service providers, '
+      + 'streams, and demographic groups. Developed the system with '
+      + 'archivability, scalability, and performance monitoring.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Mo\'s Shelter',
+    subtitle: 'Python Web App',
+    link: 'https://github.com/jadeunicorn710/Project_DogShelter',
+    image: '/images/projects/DogShelter.gif',
+    date: '2020-07-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Python web development of a dog shelter administration platform. '
+      + 'Developed with comprehensive functionalities including multi-user login, '
+      + 'dog registation & adoption, dog info management, expense management and monthly report lookup.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Word Find',
+    subtitle: 'Android Mobile App',
+    link: 'https://github.com/jadeunicorn710/Project_WordFind',
+    image: '/images/projects/WordFind.png',
+    date: '2020-04-01',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Android mobile app development of a simple word find game that allows a player '
+      + 'to solve word puzzle, adjust game settings, and view statistics.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Covid Prediction',
+    subtitle: 'Machine Learning',
+    link: 'https://young-bastion-46390.herokuapp.com/visualization',
+    image: '/images/projects/CovidPrediction.gif',
+    date: '2020-12-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Application of logistic regression and neural network models in prediction of '
+      + 'Covid ICU and hospitalization, based on 563201 records of patients\' preconditions. '
+      + 'Developed web app to visualize data distribution, model results, and interactive prediction test.',
+  },
+  {
+    title: 'CommonLit Readability',
+    subtitle: 'Deep Learning',
+    link: 'https://github.com/jadeunicorn710/Project_CommonLitReadability',
+    image: '/images/projects/CommonLit.png',
+    date: '2022-07-01',
+    desc:
+      'Application of various Transformer models in prediction of '
+      + 'Grade 3-12 reading material readability based on 2834 entries. '
+      + 'Performed model optimization and hyperparameter tuning to improve prediction accuracy.',
   },
 ];
 

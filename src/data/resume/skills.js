@@ -5,92 +5,37 @@ const skills = [
   {
     title: 'Java',
     competency: 4,
-    category: ['Languages'],
+    category: ['Languages', 'Java'],
+  },
+  {
+    title: 'Spring Boot',
+    competency: 3,
+    category: ['Web Development', 'Framework', 'Java'],
   },
   {
     title: 'Javascript',
     competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Languages', 'Javascript', 'Web Development'],
   },
   {
     title: 'Node.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
+    competency: 3,
+    category: ['Javascript', 'Web Development'],
   },
   {
     title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'MySQL/PostgreSQL',
     competency: 3,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
+    category: ['Javascript', 'Web Development'],
   },
   {
     title: 'D3',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Flask',
-    competency: 2,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'Git',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Google Cloud Compute',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'Numpy',
-    competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Typescript',
-    competency: 2,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Javascript', 'Data Science'],
   },
   {
     title: 'HTML + CSS',
     competency: 3,
-    category: ['Web Development', 'Languages'],
+    category: ['Languages', 'Web Development'],
   },
   {
     title: 'Python',
@@ -98,40 +43,175 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
+    title: 'Flask',
+    competency: 3,
+    category: ['Python', 'Web Development', 'Framework'],
+  },
+  {
+    title: 'Numpy',
+    competency: 3,
+    category: ['Python', 'Data Science'],
+  },
+  {
+    title: 'Tensorflow + Keras',
+    competency: 3,
+    category: ['Python', 'Machine Learning'],
+  },
+  {
+    title: 'Jupyter Notebook',
+    competency: 3,
+    category: ['Python', 'Data Science', 'Machine Learning'],
+  },
+  {
+    title: 'Pandas',
+    competency: 2,
+    category: ['Python', 'Data Science'],
+  },
+  {
+    title: 'Matplotlib',
+    competency: 2,
+    category: ['Python', 'Data Science'],
+  },
+  {
+    title: 'Scikit-Learn',
+    competency: 3,
+    category: ['Python', 'Machine Learning'],
+  },
+  {
+    title: 'Hadoop',
+    competency: 2,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Spark',
+    competency: 2,
+    category: ['Framework', 'Data Science'],
+  },
+  {
+    title: 'Pytorch',
+    competency: 2,
+    category: ['Data Science'],
+  },
+  {
+    title: 'OpenCV',
+    competency: 2,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Hugging Face',
+    competency: 2,
+    category: ['Machine Learning'],
+  },
+  {
+    title: 'MySQL',
+    competency: 3,
+    category: ['Languages', 'Web Development', 'Databases'],
+  },
+  {
+    title: 'Prometheus/Grafana',
+    competency: 2,
+    category: ['Web Development'],
+  },
+  {
+    title: 'Postman',
+    competency: 3,
+    category: ['Web Development', 'Java'],
+  },
+  {
+    title: 'Heroku',
+    competency: 2,
+    category: ['Web Development'],
+  },
+  {
     title: 'MATLAB',
     competency: 2,
     category: ['Languages'],
   },
   {
-    title: 'Data Visualization',
-    competency: 4,
-    category: ['Data Science', 'Javascript'],
-  },
-  {
-    title: 'Pandas',
+    title: 'Amazon Web Services',
     competency: 2,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Cloud Computing'],
   },
   {
-    title: 'Matplotlib',
+    title: 'Google Cloud Platform',
+    competency: 2,
+    category: ['Cloud Computing'],
+  },
+  {
+    title: 'Google Colab',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Cloud Computing', 'Machine Learning'],
   },
   {
-    title: 'Scikit-Learn',
+    title: 'Azure ML Studio',
+    competency: 2,
+    category: ['Cloud Computing', 'Machine Learning'],
+  },
+  {
+    title: 'Kaggle',
+    competency: 3,
+    category: ['Cloud Computing', 'Machine Learning'],
+  },
+  {
+    title: 'Tableau',
+    competency: 3,
+    category: ['Data Science'],
+  },
+  {
+    title: 'Weka',
+    competency: 3,
+    category: ['Machine Learning'],
+  },
+  {
+    title: 'GitHub',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Tools'],
   },
   {
-    title: 'Hadoop',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'Docker',
+    competency: 3,
+    category: ['Tools'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'LucidChart',
+    competency: 3,
+    category: ['Tools'],
   },
+  {
+    title: 'Jira',
+    competency: 2,
+    category: ['Tools'],
+  },
+  {
+    title: 'Trello',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Slack',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Teams',
+    competency: 4,
+    category: ['Tools'],
+  },
+  // {
+  //   title: 'MongoDB',
+  //   competency: 2,
+  //   category: ['Web Development', 'Databases'],
+  // },
+  // {
+  //   title: 'Redis',
+  //   competency: 2,
+  //   category: ['Web Development', 'Databases'],
+  // },
+  // // {
+  // //   title: 'Typescript',
+  // //   competency: 2,
+  // //   category: ['Web Development', 'Languages', 'Javascript'],
+  // // },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
