@@ -56,15 +56,15 @@ const data = [
       + 'Performed model optimization and hyperparameter tuning to improve prediction accuracy.',
   },
   {
-    title: 'NYC-TLC',
+    title: 'NYC-TLC Data Analytics',
     subtitle: 'Data Analytics',
     link: 'https://github.com/jadeunicorn710/Project_NYC-TLC',
-    image: '/images/projects/DigitDetection.jpg',
+    image: '/images/projects/NYC-TLC.jpg',
     date: '2020-10-01',
     desc:
-      'Application of various VGG16-based models in digit detection and recognition '
-      + 'of street view images. Data processing and machine learning carried out on '
-      + '99289 street view images to train and optimize model.',
+      'Application of Apache Spark in big data and cloud computing via AWS and GCP. '
+      + 'Data processing and analysis on over one billion individual taxi trips '
+      + 'from the NYC Taix & Limousine Commission.',
   },
   {
     title: 'Digit Recognition',
@@ -76,6 +76,22 @@ const data = [
       'Application of various VGG16-based models in digit detection and recognition '
       + 'of street view images. Data processing and machine learning carried out on '
       + '99289 street view images to train and optimize model.',
+  },
+  {
+    title: 'Seam Carving',
+    subtitle: 'Computational Photography',
+    link: 'https://github.com/jadeunicorn710/Project_SeamCarving',
+    image: '/images/projects/SeamCarving.jpg',
+    date: '2019-10-01',
+    desc:
+      'Effective and cool content-aware image resizing for both image reduction and expansion. '
+      + 'Implemented based on the seam carving algorithms presented by '
+      + 'Shai, et al and  '
+      + 'Michael, et al.',
+    reference1: 'https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf',
+    content1: 'papers here',
+    reference2: 'http://www.eng.tau.ac.il/~avidan/papers/vidret.pdf',
+    content2: ' and here',
   },
 ];
 

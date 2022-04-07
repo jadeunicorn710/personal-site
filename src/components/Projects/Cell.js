@@ -14,6 +14,9 @@ const Cell = ({ data }) => (
       </a>
       <div className="description">
         <p>{data.desc}</p>
+        <p><a href={data.reference1}>{data.content1}</a>
+          <a href={data.reference2}>{data.content2}</a>
+        </p>
       </div>
     </article>
   </div>
@@ -26,6 +29,10 @@ Cell.propTypes = {
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
+    reference1: PropTypes.string,
+    content1: PropTypes.string,
+    reference2: PropTypes.string,
+    content2: PropTypes.string,
   }).isRequired,
 };
 
