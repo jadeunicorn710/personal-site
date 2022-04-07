@@ -27,7 +27,7 @@ const data = [
     title: 'Word Find',
     subtitle: 'Android Mobile App',
     link: 'https://github.com/jadeunicorn710/Project_WordFind',
-    image: '/images/projects/WordFind.png',
+    image: '/images/projects/WordFind.gif',
     date: '2020-04-01',
     desc:
       'Android mobile app development of a simple word find game that allows a player '
@@ -54,6 +54,28 @@ const data = [
       'Application of various Transformer models in prediction of '
       + 'Grade 3-12 reading material readability based on 2834 entries. '
       + 'Performed model optimization and hyperparameter tuning to improve prediction accuracy.',
+  },
+  {
+    title: 'NYC-TLC',
+    subtitle: 'Data Analytics',
+    link: 'https://github.com/jadeunicorn710/Project_NYC-TLC',
+    image: '/images/projects/DigitDetection.jpg',
+    date: '2020-10-01',
+    desc:
+      'Application of various VGG16-based models in digit detection and recognition '
+      + 'of street view images. Data processing and machine learning carried out on '
+      + '99289 street view images to train and optimize model.',
+  },
+  {
+    title: 'Digit Recognition',
+    subtitle: 'Computer Vision',
+    link: 'https://github.com/jadeunicorn710/Project_DigitRecognition',
+    image: '/images/projects/DigitDetection.jpg',
+    date: '2020-12-01',
+    desc:
+      'Application of various VGG16-based models in digit detection and recognition '
+      + 'of street view images. Data processing and machine learning carried out on '
+      + '99289 street view images to train and optimize model.',
   },
 ];
 
