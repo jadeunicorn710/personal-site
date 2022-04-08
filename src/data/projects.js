@@ -45,17 +45,6 @@ const data = [
       + 'Developed web app to visualize data distribution, model results, and interactive prediction test.',
   },
   {
-    title: 'CommonLit Readability',
-    subtitle: 'Deep Learning',
-    link: 'https://github.com/jadeunicorn710/Project_CommonLitReadability',
-    image: '/images/projects/CommonLit.png',
-    date: '2022-07-01',
-    desc:
-      'Application of various Transformer models in prediction of '
-      + 'Grade 3-12 reading material readability based on 2834 entries. '
-      + 'Performed model optimization and hyperparameter tuning to improve prediction accuracy.',
-  },
-  {
     title: 'NYC-TLC Data Analytics',
     subtitle: 'Data Analytics',
     link: 'https://github.com/jadeunicorn710/Project_NYC-TLC',
@@ -78,6 +67,17 @@ const data = [
       + 'Created force-directed graph showing similarities among games, '
       + 'as well as the interactive line-bar chart and choropleth map for more complex '
       + 'game data visualizations.',
+  },
+  {
+    title: 'CommonLit Readability',
+    subtitle: 'Deep Learning',
+    link: 'https://github.com/jadeunicorn710/Project_CommonLitReadability',
+    image: '/images/projects/CommonLit.png',
+    date: '2022-07-01',
+    desc:
+      'Application of various Transformer models in prediction of '
+      + 'Grade 3-12 reading material readability based on 2834 entries. '
+      + 'Performed model optimization and hyperparameter tuning to improve prediction accuracy.',
   },
   {
     title: 'Digit Recognition',
