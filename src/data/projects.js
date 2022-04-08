@@ -7,7 +7,7 @@ const data = [
     image: '/images/projects/StreamingWars.gif',
     date: '2021-05-01',
     desc:
-      'Java web development of a streaming event platform that dynamically tracks '
+      'Java (Spring Boot) web development of a streaming event platform that dynamically tracks '
       + 'the status of various parties including studios, streaming service providers, '
       + 'streams, and demographic groups. Developed the system with '
       + 'archivability, scalability, and performance monitoring.',
@@ -19,7 +19,7 @@ const data = [
     image: '/images/projects/DogShelter.gif',
     date: '2020-07-01',
     desc:
-      'Python web development of a dog shelter administration platform. '
+      'Python (Flask) web development of a dog shelter administration platform. '
       + 'Developed with comprehensive functionalities including multi-user login, '
       + 'dog registation & adoption, dog info management, expense management and monthly report lookup.',
   },
@@ -67,6 +67,19 @@ const data = [
       + 'from the NYC Taix & Limousine Commission.',
   },
   {
+    title: 'Board Game Geek',
+    subtitle: 'Data Visualization',
+    link: 'https://github.com/jadeunicorn710/Project_BoardGameGeek',
+    image: '/images/projects/BoardGameGeek.gif',
+    date: '2020-9-01',
+    desc:
+      'Fun exploration and data visualization for various board games\' '
+      + 'ratings, popularity, and metadata, by utilizing Taleau, D3.js and HTML. '
+      + 'Created force-directed graph showing similarities among games, '
+      + 'as well as the interactive line-bar chart and choropleth map for more complex '
+      + 'game data visualizations.',
+  },
+  {
     title: 'Digit Recognition',
     subtitle: 'Computer Vision',
     link: 'https://github.com/jadeunicorn710/Project_DigitRecognition',
@@ -76,6 +89,18 @@ const data = [
       'Application of various VGG16-based models in digit detection and recognition '
       + 'of street view images. Data processing and machine learning carried out on '
       + '99289 street view images to train and optimize model.',
+  },
+  {
+    title: 'Pedestrian Tracking',
+    subtitle: 'Computer Vision',
+    link: 'https://github.com/jadeunicorn710/Project_PedestrianTracking',
+    image: '/images/projects/PedestrianTrack.gif',
+    date: '2020-10-01',
+    desc:
+      'The intersting implementation of pedestrian tracking for image sequences and '
+      + 'videos. Applied the Kalman and Particle Filters algorithms on pedestrian tracking under '
+      + 'various scenarios, such as single object, multiple objects, videos with '
+      + 'noises, occlusions, and moving cameras.',
   },
   {
     title: 'Seam Carving',
