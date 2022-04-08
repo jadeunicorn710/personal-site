@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Yunlin. I go by Jason.
         I am a <a href="https://www.cc.gatech.edu/">Georgia Tech CS</a> graduate and also
-        a <a href="https://arthena.com">U of I CEE</a> graduate. I currently work
+        a <a href="https://illinois.edu/">U of I CEE</a> graduate. I currently work
         at <a href="https://uzuncase.com/">Uzun+Case</a> as a Project Engineer.
         I am dedicated to delivering exciting and quality building designs of various
         types to our clients,
