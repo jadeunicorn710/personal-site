@@ -7,6 +7,6 @@ I enjoy doing software development and structural design because they share lots
 
 Moreover, nowadays, the technology and knowledge from the data & software fields are benefitting the traditional structural design more and more, as the automating power of software continuously shed light on most industries. When it comes to making decisions, we might still not feel super comfortable turning it over to a computer since it relates to safety. However, automating design workflow especially those regular and repetitive ones could not only enhance productivity, but potentially prevent inadvertent mistakes as well. Therefore, developing software and gadgets to solve problems interdisciplinarily becomes very appealing to me.
 
-# Me in life
+# Fun/Weird facts about me
 
 - I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person, I take pride in being receptive, reliable, passionate, and altruistic.
