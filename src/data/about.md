@@ -11,5 +11,6 @@ Moreover, nowadays, the technology and knowledge from the data & software fields
 
 - I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person, I take pride in being receptive, reliable, passionate, and altruistic.
 - I am left-handed, but I write with right hand.
-- I want to solve 1000 LeetCode problems, don't know why, but I'm getting close.
-- 
+- My resume completely changed three times, and there might be a fourth.
+- I want to solve 1000 LeetCode problems, don't know why, but getting close.
+- I enjoy hiking, driving, cooking, watching videos, and listening to music
