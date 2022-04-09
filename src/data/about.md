@@ -9,4 +9,4 @@ Moreover, nowadays, the technology and knowledge from the data & software fields
 
 # Me in life
 
-- I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person
+- I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person, I take pride in being receptive, reliable, passionate, and altruistic.
