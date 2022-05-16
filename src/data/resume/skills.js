@@ -78,6 +78,31 @@ const skills = [
     category: ['Python', 'Machine Learning'],
   },
   {
+    title: 'Amazon Web Services',
+    competency: 2,
+    category: ['Cloud Computing'],
+  },
+  {
+    title: 'Google Cloud Platform',
+    competency: 2,
+    category: ['Cloud Computing'],
+  },
+  {
+    title: 'Google Colab',
+    competency: 3,
+    category: ['Cloud Computing', 'Machine Learning'],
+  },
+  {
+    title: 'Azure ML Studio',
+    competency: 2,
+    category: ['Cloud Computing', 'Machine Learning'],
+  },
+  {
+    title: 'Kaggle',
+    competency: 3,
+    category: ['Cloud Computing', 'Machine Learning'],
+  },
+  {
     title: 'Hadoop',
     competency: 2,
     category: ['Data Science'],
@@ -108,6 +133,11 @@ const skills = [
     category: ['Languages', 'Web Development', 'Databases'],
   },
   {
+    title: 'PostgreSQL',
+    competency: 3,
+    category: ['Languages', 'Web Development', 'Databases'],
+  },
+  {
     title: 'Prometheus/Grafana',
     competency: 2,
     category: ['Web Development'],
@@ -118,6 +148,11 @@ const skills = [
     category: ['Web Development', 'Java'],
   },
   {
+    title: 'Nginx',
+    competency: 2,
+    category: ['Web Development'],
+  },
+  {
     title: 'Heroku',
     competency: 2,
     category: ['Web Development'],
@@ -126,31 +161,6 @@ const skills = [
     title: 'MATLAB',
     competency: 2,
     category: ['Languages'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 2,
-    category: ['Cloud Computing'],
-  },
-  {
-    title: 'Google Cloud Platform',
-    competency: 2,
-    category: ['Cloud Computing'],
-  },
-  {
-    title: 'Google Colab',
-    competency: 3,
-    category: ['Cloud Computing', 'Machine Learning'],
-  },
-  {
-    title: 'Azure ML Studio',
-    competency: 2,
-    category: ['Cloud Computing', 'Machine Learning'],
-  },
-  {
-    title: 'Kaggle',
-    competency: 3,
-    category: ['Cloud Computing', 'Machine Learning'],
   },
   {
     title: 'Tableau',
@@ -164,7 +174,7 @@ const skills = [
   },
   {
     title: 'GitHub',
-    competency: 4,
+    competency: 3,
     category: ['Tools'],
   },
   {
@@ -194,7 +204,7 @@ const skills = [
   },
   {
     title: 'Teams',
-    competency: 4,
+    competency: 3,
     category: ['Tools'],
   },
   // {

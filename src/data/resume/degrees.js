@@ -1,13 +1,13 @@
 const degrees = [
   {
     school: 'Georgia Institute of Technology',
-    degree: 'M.S. Computer Science, top-10 program in US, 3.90/4.0 GPA',
+    degree: 'M.S. Computer Science, top10 program in US, 3.90/4.0 GPA',
     link: 'https://www.gatech.edu/',
     year: 2021,
   },
   {
     school: 'University of Illinois Urbana-Champaign',
-    degree: 'M.S. Civil Engineering, top-2 program in US',
+    degree: 'M.S. Civil Engineering, top2 program in US',
     link: 'https://illinois.edu/',
     year: 2015,
   },
