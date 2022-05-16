@@ -23,9 +23,9 @@ const SideBar = () => (
         I am a <a href="https://www.cc.gatech.edu/">Georgia Tech CS</a> graduate and also
         a <a href="https://illinois.edu/">U of I CEE</a> graduate. I currently work
         at <a href="https://uzuncase.com/">Uzun+Case</a> as a Project Engineer.
-        I am dedicated to delivering exciting and quality building designs of various
-        types to our clients,
-        and I also develop software to enhance efficiency and productivity.
+        I conduct 3D building information modeling & analysis and deliver exciting
+        design products to our clients, I also develop software & tools to automate
+        our daily engineering tasks and expedite project delivery process.
       </p>
       <ul className="actions">
         <li>
