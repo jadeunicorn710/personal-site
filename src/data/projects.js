@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Quick Elements ©',
+    // subtitle: 'Java Web App',
+    // link: 'https://github.com/jadeunicorn710/Project_StreamingWars',
+    image: '/images/projects/QuickElements.gif',
+    date: '2022-02-01',
+    desc:
+      'A powerful Autodesk App developed in Python '
+      + 'that connects 3D building information modeling to '
+      + '3D building analysis of steel members with just one click.',
+  },
+  {
     title: 'Streaming Wars',
     subtitle: 'Java Web App',
     link: 'https://github.com/jadeunicorn710/Project_StreamingWars',
@@ -73,7 +84,7 @@ const data = [
     subtitle: 'Deep Learning',
     link: 'https://github.com/jadeunicorn710/Project_CommonLitReadability',
     image: '/images/projects/CommonLit.png',
-    date: '2022-07-01',
+    date: '2021-07-01',
     desc:
       'Application of various Transformer models in prediction of '
       + 'Grade 3-12 reading material readability based on 2834 entries. '
