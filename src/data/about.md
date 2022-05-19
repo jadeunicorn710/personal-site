@@ -13,5 +13,5 @@ Moreover, software development plays a significant role in 3D building informati
 
 - I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person, I take pride in being receptive, reliable, passionate, and altruistic.
 - I am left-handed, but I write with right hand.
-- I want to solve 1000 LeetCode problems, don't know why, but getting close.
+- I want to solve 1000 [LeetCode](https://leetcode.com/Jadeunicorn710/) problems, don't know why, but getting close.
 - I enjoy hiking, driving, cooking, watching videos, and listening to music
