@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Tetris Game |click to play!',
+    // subtitle: 'Java Web App',
+    link: 'https://tetris-tetris-game.herokuapp.com/',
+    image: '/images/projects/TetrisGame.gif',
+    date: '2022-04-01',
+    desc:
+      'The fun and classic tetris game! With multiple levels of difficulties '
+      + 'to choose for you to either relax a little bit or challenge your skills!',
+  },
+  {
     title: 'Quick Elements ©',
     // subtitle: 'Java Web App',
     // link: 'https://github.com/jadeunicorn710/Project_StreamingWars',
