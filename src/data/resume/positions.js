@@ -5,11 +5,12 @@ const positions = [
     link: 'https://uzuncase.com/',
     daterange: 'August 2015 - Present',
     points: [
-      'Conduct 3D building information modeling (BIM), analysis, and design '
-      + 'of commercial, residential, and education projects',
-      'Develop software & tools to expedite project delivery process by '
-      + 'automating engineering tasks and improving '
-      + 'productivity',
+      'Tackle targeted complex engineering tasks with software solutions '
+      + 'as part of building product life cycle development',
+      'Create Python-based functions to enable data processing pipelines '
+      + 'of collection and validation from building databases',
+      'Implement backend services with analyzed logic constraints using '
+      + 'Revit .NET API and pyRevit development environment'
     ],
   },
 ];
