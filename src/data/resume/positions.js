@@ -10,7 +10,7 @@ const positions = [
       'Create Python-based functions to enable data processing pipelines '
       + 'of collection and validation from building databases',
       'Implement backend services with analyzed logic constraints using '
-      + 'Revit .NET API and pyRevit development environment'
+      + 'Revit .NET API and pyRevit development environment',
     ],
   },
 ];
