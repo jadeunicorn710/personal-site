@@ -4,8 +4,7 @@
   "env": {
     "browser": true,
     "node": true,
-    "jest": true,
-    "es2021": true
+    "jest": true
   },
   "rules": {
     "jsx-a11y/anchor-is-valid": [
