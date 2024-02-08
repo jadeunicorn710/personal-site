@@ -17,24 +17,27 @@ const data = [
   },
   {
     title: 'Norfolk Southern New Headquarters | Mixed-Use | Atlanta, GA',
-    link: 'https://www.pickardchilton.com/work/norfolk-southern-headquarters',
+    link: 'https://uzuncase.com/projects/norfolk-southern-corporate-headquarters/',
     image: '/images/portfolio/norfolk.jpg',
     desc: '$575M, 750,000 SF development in midtown Atlanta including '
     + 'a 6-story podium with 4 stories of below-grade parking, '
-    + 'and two office towers above. • 1st Place Award, High-Rise Category, '
-    + '2022 American Concrete Institute (ACI), Georgia Chapter. ',
+    + 'and two office towers above. • Outstanding Achievement Award, High-Rise Buildings Category, '
+    + '2022 American Concrete Institute (ACI), Georgia Chapter. • Honorable Mention, New Buildings Over $25 M Category, '
+    + '2022 Structural Engineers Association of Georgia (SEAOG) • LEED Gold certification.',
   },
   {
     title: '1105 West Peachtree | Mixed-Use | Atlanta, GA',
     link: 'https://uzuncase.com/projects/1105-west-peachtree-mixed-use-development/',
     image: '/images/portfolio/1105wps.jpg',
-    desc: '$305M, 1,672,000 SF mixed-use development featuring a 31-story office tower '
+    desc: '$550M, 1,750,000 SF mixed-use development featuring a 31-story office tower '
     + 'where two thirds are used as Google\'s new office in Atlanta, '
     + 'a 16-story hotel, and a 20-story residential tower atop an 8-story podium with parking and retail. '
     + '• 1st Place Award, Mixed-Use Development Category, '
     + '2021 American Concrete Institute (ACI), Georgia Chapter. '
     + '• Engineering Excellence Award - Honor Award, 2022 '
-    + 'American Council of Engineering Companies of Georgia (ACEC Georgia).',
+    + 'American Council of Engineering Companies of Georgia (ACEC Georgia). • Outstanding Project – New Building '
+    + 'Over $25 M Category, 2022 Structural Engineers Association of Georgia (SEAOG) '
+    + '• Development of Excellence Award – Commercial and Mixed-Use Category, 2023 Urban Land Institute (ULI), Atlanta',
   },
   {
     title: 'Atlantic Yards | Mixed-Use | Atlanta, GA',
@@ -57,14 +60,14 @@ const data = [
   },
   {
     title: '901 W Peachtree St Tower | Office | Atlanta, GA',
-    link: 'https://www.pickardchilton.com/work/norfolk-southern-headquarters',
+    // link: 'https://www.pickardchilton.com/work/norfolk-southern-headquarters',
     image: '/images/portfolio/901wps.png',
     desc: '$200M, 500,000 SF 30-story office tower with lower 12 stories as '
     + 'parking and over 80ft of tapered roof screen above.',
   },
   {
     title: '760 Ralph McGill Boulevard | Mixed-Use | Atlanta, GA',
-    link: 'https://www.pickardchilton.com/work/norfolk-southern-headquarters',
+    // link: 'https://www.pickardchilton.com/work/norfolk-southern-headquarters',
     image: '/images/portfolio/760rmb.jpg',
     desc: '$750M, 1,200,000 SF MASSIVE development along Atlanta BeltLine featuring '
     + 'three huge parcels! Parcel A includes three 12-story office towers connected by bridges. '
@@ -83,7 +86,7 @@ const data = [
   },
   {
     title: 'Opus Place No.2 | Mixed-Use | Atlanta, GA',
-    link: 'https://perkinswill.com/project/no-2-opus-place/',
+    // link: 'https://perkinswill.com/project/no-2-opus-place/',
     image: '/images/portfolio/opus.jpg',
     desc: '$700M, 1,200,000 SF mixed-used development at heart of Atlanta Midtown, '
     + 'featuring a 53-story luxury residential tower that forms a single line up '

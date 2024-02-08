@@ -14,12 +14,22 @@ const skills = [
   },
   {
     title: 'Javascript',
-    competency: 3,
+    competency: 4,
     category: ['Languages', 'Javascript', 'Web Development'],
   },
   {
-    title: 'Node.JS',
+    title: 'Go',
     competency: 3,
+    category: ['Languages', 'Go'],
+  },
+  {
+    title: 'TypeScript',
+    competency: 2,
+    category: ['Languages', 'TypeScript'],
+  },
+  {
+    title: 'Node.JS',
+    competency: 4,
     category: ['Javascript', 'Web Development'],
   },
   {
@@ -79,7 +89,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 2,
+    competency: 5,
     category: ['Cloud Computing'],
   },
   {
@@ -174,7 +184,7 @@ const skills = [
   },
   {
     title: 'GitHub',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
@@ -199,7 +209,7 @@ const skills = [
   },
   {
     title: 'Slack',
-    competency: 3,
+    competency: 5,
     category: ['Tools'],
   },
   {

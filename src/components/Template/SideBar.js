@@ -21,7 +21,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Yunlin. I go by Jason.
         I am a <a href="https://www.cc.gatech.edu/">Georgia Tech CS</a> graduate and also
-        a <a href="https://illinois.edu/">U of I CEE</a> graduate. I currently work
+        a <a href="https://illinois.edu/">U of I CEE</a> graduate. I currently work as a Software Development
+        Engineer at <a href="https://aws.amazon.com/free/compute/lightsail/">AWS Lightsail</a>. I used to work
         as a Project Engineer at <a href="https://uzuncase.com/">Uzun+Case</a>,
         where I work on targeted complex engineering tasks with software solutions
         as part of building product life cycle development.

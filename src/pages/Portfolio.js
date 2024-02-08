@@ -24,7 +24,7 @@ const Portfolio = () => (
           </p> */}
           <p>
             Cool building products that I have worked on extensively as
-            a licensed <a href="https://www.seaoc.org/page/whatisase#:~:text=Structural%20Engineers%20create%20drawings%20and,order%20to%20practice%20Structural%20Engineering.">structural engineer</a>.
+            a licensed <a href="https://en.wikipedia.org/wiki/Structural_engineer">structural engineer</a>.
           </p>
         </div>
       </header>

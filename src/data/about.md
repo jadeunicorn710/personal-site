@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a licensed structural engineer and also a passionate software developer. I currently work at Uzun+Case as a Project Engineer. I got my first master degree in civil engineering from University of Illinois at Urbana-Champaign, and my second master degree in computer science from Georgia Institute of Technology.  
+I am a licensed structural engineer and also a passionate software developer. I currently work at AWS Lightsail as a Software Development Engineer, before which I used to work at Uzun+Case as a Project Engineer. I got my first master degree in civil engineering from University of Illinois at Urbana-Champaign, and my second master degree in computer science from Georgia Institute of Technology.  
 
 Software development and buidling design share lots of similarities. Firstly, they have similar workflow. Both of them involve delivering a quality product to meet client's goals, from scratch, through multi-phase development and optimization, towards final output. Secondly, the development process takes a team to work both synchronously and asynchronously, where awareness of potential conflict and ability to coordinate are emphasized. Thirdly, both software development and building design require mastery of various software & tools, where self-learning and debugging on the fly are valued. Fourthly, clarity and attention to details are important to ensure product quality. Lastly, both are super fulfilling upon product delivery, either it is a gigantic building or a compact app.  
 
@@ -13,5 +13,5 @@ Moreover, software development plays a significant role in 3D building informati
 
 - I am an [ENFJ-A](https://www.16personalities.com/enfj-personality) person, I take pride in being receptive, reliable, passionate, and altruistic.
 - I am left-handed, but I write with right hand.
-- I want to solve 1000 [LeetCode](https://leetcode.com/Jadeunicorn710/) problems, don't know why, but getting close.
+- I wanted to solve 1000+ [LeetCode](https://leetcode.com/Jadeunicorn710/) problems, and I did that.
 - I enjoy hiking, driving, cooking, watching videos, and listening to music
