@@ -1,253 +1,71 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
-
 const skills = [
-  {
-    title: 'Java',
-    competency: 4,
-    category: ['Languages', 'Java'],
-  },
-  {
-    title: 'Spring Boot',
-    competency: 3,
-    category: ['Web Development', 'Framework', 'Java'],
-  },
-  {
-    title: 'Javascript',
-    competency: 4,
-    category: ['Languages', 'Javascript', 'Web Development'],
-  },
-  {
-    title: 'Go',
-    competency: 3,
-    category: ['Languages', 'Go'],
-  },
-  {
-    title: 'TypeScript',
-    competency: 2,
-    category: ['Languages', 'TypeScript'],
-  },
-  {
-    title: 'Node.JS',
-    competency: 4,
-    category: ['Javascript', 'Web Development'],
-  },
-  {
-    title: 'React',
-    competency: 3,
-    category: ['Javascript', 'Web Development'],
-  },
-  {
-    title: 'D3',
-    competency: 3,
-    category: ['Javascript', 'Data Science'],
-  },
-  {
-    title: 'HTML + CSS',
-    competency: 3,
-    category: ['Languages', 'Web Development'],
-  },
-  {
-    title: 'Python',
-    competency: 4,
-    category: ['Languages', 'Python'],
-  },
-  {
-    title: 'Flask',
-    competency: 3,
-    category: ['Python', 'Web Development', 'Framework'],
-  },
-  {
-    title: 'Numpy',
-    competency: 3,
-    category: ['Python', 'Data Science'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['Python', 'Machine Learning'],
-  },
-  {
-    title: 'Jupyter Notebook',
-    competency: 3,
-    category: ['Python', 'Data Science', 'Machine Learning'],
-  },
-  {
-    title: 'Pandas',
-    competency: 2,
-    category: ['Python', 'Data Science'],
-  },
-  {
-    title: 'Matplotlib',
-    competency: 2,
-    category: ['Python', 'Data Science'],
-  },
-  {
-    title: 'Scikit-Learn',
-    competency: 3,
-    category: ['Python', 'Machine Learning'],
-  },
-  {
-    title: 'Amazon Web Services',
-    competency: 5,
-    category: ['Cloud Computing'],
-  },
-  {
-    title: 'Google Cloud Platform',
-    competency: 2,
-    category: ['Cloud Computing'],
-  },
-  {
-    title: 'Google Colab',
-    competency: 3,
-    category: ['Cloud Computing', 'Machine Learning'],
-  },
-  {
-    title: 'Azure ML Studio',
-    competency: 2,
-    category: ['Cloud Computing', 'Machine Learning'],
-  },
-  {
-    title: 'Kaggle',
-    competency: 3,
-    category: ['Cloud Computing', 'Machine Learning'],
-  },
-  {
-    title: 'Hadoop',
-    competency: 2,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Spark',
-    competency: 2,
-    category: ['Framework', 'Data Science'],
-  },
-  {
-    title: 'Pytorch',
-    competency: 2,
-    category: ['Data Science'],
-  },
-  {
-    title: 'OpenCV',
-    competency: 2,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Hugging Face',
-    competency: 2,
-    category: ['Machine Learning'],
-  },
-  {
-    title: 'MySQL',
-    competency: 3,
-    category: ['Languages', 'Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL',
-    competency: 3,
-    category: ['Languages', 'Web Development', 'Databases'],
-  },
-  {
-    title: 'Prometheus/Grafana',
-    competency: 2,
-    category: ['Web Development'],
-  },
-  {
-    title: 'Postman',
-    competency: 3,
-    category: ['Web Development', 'Java'],
-  },
-  {
-    title: 'Nginx',
-    competency: 2,
-    category: ['Web Development'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Tableau',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Weka',
-    competency: 3,
-    category: ['Machine Learning'],
-  },
-  {
-    title: 'GitHub',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
-    title: 'Docker',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'LucidChart',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Jira',
-    competency: 2,
-    category: ['Tools'],
-  },
-  {
-    title: 'Trello',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Slack',
-    competency: 5,
-    category: ['Tools'],
-  },
-  {
-    title: 'Teams',
-    competency: 3,
-    category: ['Tools'],
-  },
-  // {
-  //   title: 'MongoDB',
-  //   competency: 2,
-  //   category: ['Web Development', 'Databases'],
-  // },
-  // {
-  //   title: 'Redis',
-  //   competency: 2,
-  //   category: ['Web Development', 'Databases'],
-  // },
-  // // {
-  // //   title: 'Typescript',
-  // //   competency: 2,
-  // //   category: ['Web Development', 'Languages', 'Javascript'],
-  // // },
+  // Languages
+  { title: 'Python', competency: 4, category: ['Languages'] },
+  { title: 'Java', competency: 4, category: ['Languages'] },
+  { title: 'Go', competency: 4, category: ['Languages'] },
+  { title: 'JavaScript', competency: 4, category: ['Languages'] },
+  { title: 'TypeScript', competency: 3, category: ['Languages'] },
+  { title: 'SQL', competency: 4, category: ['Languages'] },
+  { title: 'HTML + CSS', competency: 3, category: ['Languages'] },
+
+  // Web & Backend
+  { title: 'Node.JS', competency: 4, category: ['Web & Backend'] },
+  { title: 'React', competency: 3, category: ['Web & Backend'] },
+  { title: 'Spring Boot', competency: 3, category: ['Web & Backend'] },
+  { title: 'Flask', competency: 3, category: ['Web & Backend'] },
+  { title: 'Nginx', competency: 2, category: ['Web & Backend'] },
+  { title: 'Postman', competency: 3, category: ['Web & Backend'] },
+  { title: 'MySQL', competency: 3, category: ['Web & Backend'] },
+  { title: 'PostgreSQL', competency: 3, category: ['Web & Backend'] },
+
+  // Cloud & Infrastructure
+  { title: 'Amazon Web Services', competency: 5, category: ['Cloud & Infrastructure'] },
+  { title: 'Google Cloud Platform', competency: 2, category: ['Cloud & Infrastructure'] },
+  { title: 'Kubernetes', competency: 4, category: ['Cloud & Infrastructure'] },
+  { title: 'Docker', competency: 4, category: ['Cloud & Infrastructure'] },
+  { title: 'Slurm', competency: 3, category: ['Cloud & Infrastructure'] },
+  { title: 'Prometheus/Grafana', competency: 4, category: ['Cloud & Infrastructure'] },
+
+  // AI/ML Training
+  { title: 'PyTorch', competency: 4, category: ['AI/ML Training'] },
+  { title: 'TensorFlow + Keras', competency: 3, category: ['AI/ML Training'] },
+  { title: 'Scikit-Learn', competency: 3, category: ['AI/ML Training'] },
+  { title: 'Ray', competency: 4, category: ['AI/ML Training'] },
+  { title: 'Hugging Face', competency: 3, category: ['AI/ML Training'] },
+  { title: 'Spark', competency: 2, category: ['AI/ML Training'] },
+
+  // GenAI
+  { title: 'Harness Engineering', competency: 3, category: ['GenAI'] },
+  { title: 'Prompt Engineering', competency: 4, category: ['GenAI'] },
+  { title: 'RAG', competency: 3, category: ['GenAI'] },
+
+  // Agentic AI
+  { title: 'Kiro', competency: 4, category: ['Agentic AI'] },
+  { title: 'MCP Server', competency: 4, category: ['Agentic AI'] },
+  { title: 'Agent Skills', competency: 4, category: ['Agentic AI'] },
+
+  // Data & Analytics
+  { title: 'Pandas', competency: 3, category: ['Data & Analytics'] },
+  { title: 'Numpy', competency: 3, category: ['Data & Analytics'] },
+  { title: 'Tableau', competency: 3, category: ['Data & Analytics'] },
+  { title: 'D3', competency: 3, category: ['Data & Analytics'] },
+  { title: 'Jupyter Notebook', competency: 3, category: ['Data & Analytics'] },
+
+  // DevOps & Tools
+  { title: 'Git', competency: 4, category: ['DevOps & Tools'] },
+  { title: 'OpenCV', competency: 2, category: ['DevOps & Tools'] },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
-// this is a list of colors that I like. The length should be == to the
-// number of categories. Re-arrange this list until you find a pattern you like.
+// number of colors must match number of unique categories
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#6968b3', // Agentic AI
+  '#37b1f5', // AI/ML Training
+  '#40494e', // Cloud & Infrastructure
+  '#515dd4', // Data & Analytics
+  '#e47272', // DevOps & Tools
+  '#cc7b94', // GenAI
+  '#3896e2', // Languages
+  '#64cb7b', // Web & Backend
 ];
 
 const categories = [

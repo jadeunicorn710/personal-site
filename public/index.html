@@ -26,6 +26,18 @@
 </head>
 
 <body>
+    <script>
+      // GitHub Pages SPA redirect — restore path from query param
+      (function() {
+        var p = window.location.search.match(/[?&]p=([^&]*)/);
+        if (p) {
+          window.history.replaceState(
+            null, null,
+            decodeURIComponent(p[1]) + window.location.hash
+          );
+        }
+      })();
+    </script>
     <div id="root"></div>
 </body>
 
